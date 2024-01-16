@@ -39,5 +39,5 @@ To run the program, open a terminal and follow the prompts.
 
 e.g.
 ```
-C:\Users\Gerald\ConvertAudio> python MP3_WAV_M4a.py
+C:\Users\Gerald\ConvertAudio> python MP3_WAV_M4A.py
 ```
