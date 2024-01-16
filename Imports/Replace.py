@@ -1,5 +1,3 @@
-import os
-
 class Replace:
     def replace(self, file):
         replacements = {"（" : "(", "）" : ")", "—" : "",
